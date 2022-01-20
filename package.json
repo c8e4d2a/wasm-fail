@@ -70,6 +70,8 @@
     "../../*"
   ],
   "dependencies": {
-    "ergo-lib-wasm-browser": "^0.14.0"
+    "ergo-lib-wasm-browser": "^0.14.0",
+    "esbuild": "^0.14.11",
+    "rollup-plugin-esbuild": "^4.8.2"
   }
 }
